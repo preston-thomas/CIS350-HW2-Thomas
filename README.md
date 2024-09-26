@@ -7,7 +7,7 @@
 * Machine Learning
 
 ## Technical Background:
-Currently working as a Data Engineer Intern at Mutually Human, gaining hands-on experience with SQL, ETL processes with data, Python scripting, etc.
+Currently working as a Data Engineer Intern at Mutually Human, gaining hands-on experience with SQL, ETL processes with data, Java, scripting, etc.
 
 Previously held a position with Morrison Industries, where I gained hands-on experience in SQL and learned about IT infrastructure.
 
