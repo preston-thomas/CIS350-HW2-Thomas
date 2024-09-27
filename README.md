@@ -12,7 +12,7 @@ Currently working as a Data Engineer Intern at Mutually Human, gaining hands-on 
 
 Previously held a position with Morrison Industries, where I gained hands-on experience in SQL and learned about IT infrastructure.
 
-Aside from that, I have experience programming in Java, C, PowerShell, Linux Shell, and more.
+Aside from that, I have experience programming in Python, C, PowerShell, Linux Shell, and more.
 
 ## Favorite Meme
 ![This image briefly summarizes the struggles of a data engineer.](https://github.com/user-attachments/assets/6e93cfb6-fbe8-4d20-9f13-744847490ec9)
